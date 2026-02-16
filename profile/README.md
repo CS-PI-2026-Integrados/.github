@@ -9,12 +9,12 @@ Aqui você encontrará nossos repositórios, evoluções do projeto e contribui�
 
 ## 👩‍💻 Nossa Equipe
 
-- **Tayná Vicente Silva**
-- **Mauro Libanore**
-- **Eduardo Marionucci**
-- **Diego Matheus**
-- **Luan Gabriel**
-- **Brayan Barros**
+ - Brayan Barros Teixeira Cordeiro Silva
+ - Diego Matheus de Carvalho Goncalves
+ - Eduardo Augusto Dias Marionucci
+ - Luan Gabriel da Silva Freitas
+ - Mauro Libanore
+ - Tayna Vicente Silva
 
 ## 📌 Objetivo
 Desenvolver soluções aplicando boas práticas de engenharia de software, metodologias ágeis e trabalho colaborativo.
