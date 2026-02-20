@@ -1,4 +1,4 @@
-# CI PI 2026 Integrados 
+# CS PI 2026 Integrados 
 
 Bem-vindo(a) à organização **Integrados** 🚀  
 
